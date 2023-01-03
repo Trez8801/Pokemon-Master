@@ -2,4 +2,3 @@ Within this program you are able to create Pokemon and Pokemon trainers that can
 
 You can customize your Pokemon's full health and their currently health 
 
-// This shit is alot come back to it once your are home. FUK
