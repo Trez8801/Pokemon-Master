@@ -116,8 +116,7 @@ class Trainer:
         self.activePokemon = self.pokemon[pokemon]   
         print(f'{self.name} has switched their active pokemon to {self.activePokemon.name}.') 
     
-    def active(self):
-       #self.activePokemon = self.pokemon[self.activePokemon] 
+    def active(self): 
         print(f'Ash\'s  active pokemon is {self.activePokemon.name}')
 
 #Instantiations
